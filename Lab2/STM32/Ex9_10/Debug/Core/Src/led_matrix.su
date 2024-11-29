@@ -1,0 +1,4 @@
+../Core/Src/led_matrix.c:9:6:setUpLEDMatrix	8	static
+../Core/Src/led_matrix.c:28:6:updateLEDMatrix	16	static
+../Core/Src/led_matrix.c:252:6:updateLEDMatrixBuffer	16	static
+../Core/Src/led_matrix.c:356:6:shiftLeft	16	static
