@@ -110,6 +110,7 @@ int main(void)
   setTimer0(250);
   setTimer1(50);
   setUpLEDMatrix();
+  updateLEDMatrixBuffer(8);
   while (1)
   {
     /* USER CODE END WHILE */
